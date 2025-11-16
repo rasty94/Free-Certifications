@@ -8,14 +8,11 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
-| Nutanix Certification | Nutanix | They are providing free certifications until New year | [Link](https://next.nutanix.com/education-blog-153/kick-start-the-new-year-with-free-certification-exams-40333) | January 31, 2022 |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
 | OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | Unlimited |
 | OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | Unlimited |
-| Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
 | Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
 | Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Limited Time |
-| Microsoft | Build: Azure Developer Challenge | [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81) |  21-Jun-2022 |
 | Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Limited Time |
 | Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Limited Time |
 | Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Limited Time |
@@ -70,9 +67,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
 | GitOps | codefresh.io | GitOps Fundamental certificate | [Link](https://codefresh.io/codefresh-news/get-gitops-certified-with-argo/) | Unknown |
-| Azure DevOps | Microsoft| Microsoft Azure Devops Expert Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take the Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) |  2022 |
-| Azure infrastructure architect | Microsoft | Microsoft Infrastructure architect Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&WT.mc_id=cloudskillschallenge_8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2022 |
-| AI Automation | Microsoft| Microsoft Azure AI Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8aee1e58-eeb8-409f-b0d0-d15afcc8045c&WT.mc_id=cloudskillschallenge_8aee1e58-eeb8-409f-b0d0-d15afcc8045c&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2022 |
+
 | Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
 | Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
 | Cilium | Isovalent | Cilium Service Mesh | [Link](https://isovalent.com/labs/cilium-service-mesh/) | Unknown |
@@ -88,20 +83,16 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 
 
-
-
 ## Security
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
-| Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
 | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited |
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
 | APMG International | Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible indiviuals** (see link for info). | [Link](https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot) | Unknown |
 | Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
 | SkillFront | Free ISO/IEC 27001 Information Security Associate™ | [Link](https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate) | Unlimited |
 | Azure | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times |
-| Azure | Microsoft Azure Associate Level  Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 I
 
 
 
@@ -139,7 +130,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
-| Exasol | Free Exasol training courses and certifications (€150 value each). | [Link](https://www.exasol.com/portal/display/TRAINING/Exasol+Training+and+Certification) | 30-Jun-2020 |
 | Mongodb | 12 free MongoDB courses with proof of completion. | [Link](https://university.mongodb.com/courses/catalog) | Unlimited |
 | CockcroachLab University | Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB | [Link](https://university.cockroachlabs.com/course/getting-started-with-cockroachdb) | Unknown |
 | CockcroachLab University | Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB | [Link](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) | Unknown |
@@ -165,9 +155,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Slack | Free Slack Skill Learning Paths and Badges (issued by accredible.com - these are not certifications but badges for skill specialists) | [Link](https://www.slackcertified.com/page/slack-skills) | Unknown |
 | Reuters | Reuters Training Course: Introduction to Digital Journalism | [Link](https://reutersdigitaljournalism.com/) | Unknown
 | OpenSAP | openSAP is SAP's free learning platform for everyone interested in learning about SAP's latest innovations and how to survive in the digital economy. | [Link](https://open.sap.com/) | Unknown
-| Kami | Free online training courses to build your Kami skills and grow as a leader in your professional learning community | [Link](https://www.kamiapp.com/certified/) | 31-Oct-2021 |
+
 | Miro | Miro essentials | [Link](https://academy.miro.com/learning-paths/miro-essentials) | Unknown |
 | Miro | Collaborative meetings | [Link](https://academy.miro.com/learning-paths/collaborative-meetings-in-miro) | Unknown |
 | Miro | Mapping and diagramming | [Link](https://academy.miro.com/learning-paths/mapping-and-diagramming-in-miro) | Unknown |
 | Dynatrace | Dynatrace path to certification.Gain a competitive edge | [Link](https://university.dynatrace.com/overview#certification) | Unknown |
-| Cloud App Maker, Microsoft | Microsoft low-code Cloud App Maker Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=c20e4b59-b572-4f35-b00c-0316b71a0a5e&WT.mc_id=cloudskillschallenge_c20e4b59-b572-4f35-b00c-0316b71a0a5e&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2023 |
+
