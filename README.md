@@ -9,8 +9,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
-| OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | Unlimited |
-| OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | Unlimited |
+| OCI | Oracle | Oracle Cloud Infrastructure 2024 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2024-foundations-associate/pexam_1Z0-1085-24) | Unlimited |
+| OCI | Oracle | Oracle Cloud Data Management Foundations Associate | [Link](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | Unlimited |
 | Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
 | Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Limited Time |
 | Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Limited Time |
@@ -25,7 +25,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Huawei Networking | Huawei Academ | Free course & certification (HCIA level, $200 value). | [Link](https://e.huawei.com/en/talent/#/ict/partner-details?consultationId=545&consClassCode=AUTH&consTypeCode=consulationRZZX&urlForm=certifi) | Unknown |
 | Programming | JetBrains | Free courses by JetBrains Academy for learning Java, Kotlin & Python. | [Link](https://www.jetbrains.com/academy/) | Unknown |
 | Cloud Monitoring | Elastic | Free access to 11 Elastic Stack courses ($200 value each). | [Link](https://www.elastic.co/training/free) | Unknown |
-| Diverse | Udacity | One free month access to nanodegree programs by Udacity ($400 value). Credit card / PayPal required. Don’t forget to cancel in time. | [Link](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) | Unknown |
 | Alibaba Cloud | Coursera | “Architecting on Alibaba Cloud Specialization” at Coursera. | [Link](https://www.coursera.org/specializations/alibabacloud) | Unknown |
 | DevOps | The Linux Foundation | The Linux Foundation offers 23 free courses with finalizing exams & confirmations. | [Link](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | Unknown |
 | DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | Unknown |
@@ -36,7 +35,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Plesk | Plesk University | Free Plesk Obsidian Professional Certification | [Link](https://university.plesk.com/catalog/info/id:343) | Unlimited |
 | SolusIO | Plesk University | Free SolusIO Professional Certification | [Link](https://university.plesk.com/catalog/info/id:369) | Unlimited |
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
-| SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
+| SD-WAN | HPE Aruba | HPE Aruba (formerly Silver Peak) offers Free Training & Certification for SD-WAN Professional | [Link](https://www.arubanetworks.com/support-services/training-certifications/) | Unknown |
 | Data Science | IBM Cognitive Class | Data science courses with proof of completion and badge | [Link](https://cognitiveclass.ai/) | Unlimited |
 |  IT sector | Bitdegree | gain or improve digital skills on our eLearning platform | [Link](https://www.bitdegree.org/free-certifications-online) | Unknown |
 | SysTrack | Lakeside Software | Free SysTrack certification and badge upon completion of self-paced courses through their online learning platform. They offer three courses: SysTrack Technician, SysTrack Engineer, and SysTrack Dashboard Designer. | [Link](https://info.lakesidesoftware.com/acton/fs/blocks/showLandingPage/a/31052/p/p-0081/t/page/fm/0) | Unknown |
@@ -44,7 +43,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown |
 | AWS | AWS | AWS Cloud Quest: Cloud Practitioner | [Link](https://explore.skillbuilder.aws/learn/course/11458/aws-cloud-quest-cloud-practitioner) | Unknown |
 | API | API Academy | Free API Designer and API Security Architect certifications. | [Link](https://apiacademy.co/api-certification/) | Unknown |
-| AI | Microsoft AI | Microsoft AI Classroom Series. Microsoft has joined forces with NASSCOM FutureSkills® to deliver Microsoft’s AI, machine learning and data science expertise to students through easy-to-consume modules including demos, hands-on workshop and assignments. | [Link](http://thetechco.in/MicrosoftAIforStudents/index) | Unknown |
 | Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
 | Calico | Calico | Certified Calico Operator: Level 1. | [Link](https://academy.tigera.io/course/certified-calico-operator-level-1/) | Unknown |
 | Calico | Calico | Certified Calico Operator: AWS Expert | [Link](https://academy.tigera.io/course/certified-calico-operator-aws-expert/) | Unknown |
@@ -55,9 +53,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | DevOps-Automation | CHEF | FREE Chef Principles Certification Exam | [Link](https://learn.chef.io/courses/course-v1:chef+CP101+exam/about) | Unknown |
 | Observability | New Relic | FREE Full Stack Observability Exam | [Link](https://learn.newrelic.com/full-stack-observability-exam) | Unknown |
 | Programmability | New Relic | FREE Programmability Certification Exam | [Link](https://learn.newrelic.com/programmability-certification) | Unknown |
-| Chaos | Gremlin | FREE Gremlin Certified Chaos Engineering practitioner Certification| [Link](https://gremlin.coassemble.com/unlock/7Jan8Su#/) | Unknown |
-| Neo4j | Neo4j, Inc. | Become a Neo4j Certified Professional | [Link](https://neo4j.com/graphacademy/neo4j-certification/) | Unknown |
-| Confluent | Confluent | Fundamentals Accreditation | [Link](https://cloud.contentraven.com/confluent/self-userpackage?pid=MTI5NA%3D%3D) | Unknown |
+| Chaos | Gremlin | FREE Gremlin Certified Chaos Engineering practitioner Certification| [Link](https://www.gremlin.com/certifications/) | Unknown |
+| Neo4j | Neo4j, Inc. | Become a Neo4j Certified Professional | [Link](https://graphacademy.neo4j.com/categories/certification/) | Unknown |
+| Confluent | Confluent | Fundamentals Accreditation | [Link](https://training.confluent.io/learningpath/confluent-fundamentals-accreditation) | Unknown |
 | Confluence | Confluence | Fundamentals Accreditation | [Link](https://university.atlassian.com/student/path/861302-confluence-fundamentals) | Unknown |
 | Extreme Networks | Extreme Networks | Extreme Networks Associate: Free training with an Industry Certification from the Extreme Academy | [Link](https://academy.extremenetworks.com/extreme-academy-live-registration/) | Unknown |
 | Gatling | Gatling Academy | Become an ace on Gatling’s Load Testing tool! | [Link](https://academy.gatling.io/) | Unknown |
@@ -66,7 +64,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | DeepLearning AI | Deep Learning | Deep Learning Specialization. Master Deep Learning, and Break into AI | [Link](https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&siteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=bt30QTxEyjA) | Unknown |
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
-| GitOps | codefresh.io | GitOps Fundamental certificate | [Link](https://codefresh.io/codefresh-news/get-gitops-certified-with-argo/) | Unknown |
+| GitOps | codefresh.io | GitOps Fundamental certificate | [Link](https://codefresh.io/learn/gitops/) | Unknown |
 
 | Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
 | Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
@@ -77,7 +75,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cilium | Isovalent | Cilium Enterprise: Zero Trust Visibility | [Link](https://isovalent.com/labs/cilium-enterprise-zero-trust-visibility/) | Unknown |
 | Cilium | Isovalent | Cilium IPv6 Networking and Observability | [Link](https://isovalent.com/labs/ipv6-networking-and-observability/) | Unknown |
 | Cilium | Isovalent | Cilium Gateway API | [Link](https://isovalent.com/labs/gateway-api/) | Unknown |
-| AWS Skill Builder | AWS | AWS Skill Builder is a repository of over 700 training lessons to help you learn AWS and refine your knowledge of AWS services and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknwon |
+| AWS Skill Builder | AWS | AWS Skill Builder is a repository of over 700 training lessons to help you learn AWS and refine your knowledge of AWS services and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknown |
+| GitHub | GitHub | Free GitHub Certifications: GitHub Foundations, Actions, Advanced Security, Administration, and Copilot. | [Link](https://examregistration.github.com/) | Unlimited |
 | Data Science | Kaggle | 17 Free courses on the fundamentals of Data Science such as Python, Pandas, SQL, Data Visualization, Deep Learning, etc. | [Link](https://www.kaggle.com/learn) | Unknown |
 
 
@@ -87,10 +86,10 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
-| Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited |
+| Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://training.fortinet.com/) | Unlimited |
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
 | APMG International | Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible indiviuals** (see link for info). | [Link](https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot) | Unknown |
-| Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
+| Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/introduction-to-cybersecurity) | Unlimited |
 | SkillFront | Free ISO/IEC 27001 Information Security Associate™ | [Link](https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate) | Unlimited |
 | Azure | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times |
 
@@ -104,7 +103,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Six Sigma Online | Free Six Sigma White Belt Training & Certification. | [Link](https://www.sixsigmaonline.org/six-sigma-white-belt-certification/) | Unknown |
 | OHSC | Free Project Management course and certificate by Oxford Home Study Centre (OHSC). | [Link](https://www.oxfordhomestudy.com/courses/project-management-courses-online/free-online-courses-with-certificates-in-project-management) | Unlimited |
 | Msicertified | Free Project Management Essentials Certified (PMEC) training & certification.  | [Link](https://www.msicertified.com/free-project-management-certification.html) | Unlimited |
-| 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | Unlimited |
+| 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](https://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | Unlimited |
 | ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited |
 | SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
 
@@ -119,7 +118,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | SMstudy | 4 free marketing related fundamental certifications by SMstudy. | [Link](https://www.smstudy.com/freeresources/earn-4-free-certifications) | Unlimited |
 | DMAC | Free Facebook & Instagram Marketing course and certification by DMAC (Digital Marketing Academy of Canada). | [Link](https://www.yourdmac.com/free-online-social-media-marketing-course) | Limited Time |
 | Hootsuite | **[Students only]** Free Hootsuite Platform Certification (worth $99) and Social Marketing Certification (worth $199) through Hootsuite's Student Program. | [Link](https://hootsuite.com/pages/landing/student-program) | Unlimited |
-| HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/courses?page=1#certsOnly=true) | Unlimited |
+| HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/certifications) | Unlimited |
 | SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
 
 
@@ -134,7 +133,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | CockcroachLab University | Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB | [Link](https://university.cockroachlabs.com/course/getting-started-with-cockroachdb) | Unknown |
 | CockcroachLab University | Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB | [Link](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) | Unknown |
 | Liquibase |  Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world. | [Link](https://learn.liquibase.com/index) | Unknown |
-| Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
+| Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://redis.io/learn/certifications) | Unknown |
 
 
 
@@ -146,7 +145,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | --- | --- | --- | --- |
 | Salesforce | Free Salesforce courses with career learning paths and _superbadges_. Also, free half-day [Salesforce Certification preparation webinar](https://trailhead.salesforce.com/credentials/cert-days), offering $70 discount coupon for any $200 exam for all attendees. | [Link](https://trailhead.salesforce.com/en/home) | Unlimited |
 | Revenera | Revenera Certification free of charge to approved members of the legal community. | [Link](https://info.revenera.com/SCA-Legal-Certification-Program-Request) | Unlimited |
-| Kahoot! | Kahoot! Certified for schools, free program designed to help teachers become the ultimate Kahoot! superheroes. | [Link](https://kahoot.com/blog/2020/09/18/kahoot-certified-for-schools-better-than-before/) | Unlimited |
+| Kahoot! | Kahoot! Certified for schools, free program designed to help teachers become the ultimate Kahoot! superheroes. | [Link](https://kahoot.com/schools-u/certified/) | Unlimited |
 | Explain Everything | Free Explain Everything course and certification. | [Link](https://explaineverything.com/the-explain-everything-certification-course-is-here/) | Unlimited |
 | SkillFront | Free SkillFront Entrepreneur Program™: Foundations Of Business And Entrepreneurship™ | [Link](https://www.skillfront.com/Free-Business-Entrepreneurship-Program-Certification) | Unlimited |
 | CertiProf| Free Remote Work and Virtual Collaboration - RWVCPC | [Link](https://certiprof.com/pages/remote-work-and-virtual-collaboration-certificate-rwvcpc) | Unknown |
